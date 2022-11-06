@@ -1,4 +1,4 @@
-package com.bham.pij.assignments.candidates;
+package src;
 
 import java.io.*;
 import java.nio.file.Files;
