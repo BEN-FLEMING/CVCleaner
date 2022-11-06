@@ -1,4 +1,4 @@
-package com.bham.pij.assignments.candidates;
+package src;
 
 import javax.print.DocFlavor;
 import java.io.*;
